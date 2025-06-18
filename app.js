@@ -189,7 +189,7 @@ nums.forEach((number) => {
         if (number % 3 === 0 && number % 5 === 0) fizzbuzz.push(number);
 });
 
-console.log('Exercise 12 Results:');
+console.log('Exercise 12 result:');
 console.log('  fizz:', fizz);
 console.log('  buzz:', buzz);
 console.log('  fizzbuzz:', fizzbuzz);
