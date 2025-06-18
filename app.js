@@ -253,4 +253,4 @@ numArrays.forEach((array) => {
         })
 });
 
-console.log('Exercise 15 result:\n', total);
+console.log('Exercise 15 result:', total);
