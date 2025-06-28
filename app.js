@@ -250,7 +250,7 @@ let total = 0;
 numArrays.forEach((array) => {
         array.forEach((number) => {
                 total += number;
-        })
+        });
 });
 
 console.log('Exercise 15 result:', total);
